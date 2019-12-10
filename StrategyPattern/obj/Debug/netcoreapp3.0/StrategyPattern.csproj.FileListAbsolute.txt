@@ -1,0 +1,11 @@
+C:\Users\v-fesern\Desktop\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp3.0\StrategyPattern.csprojAssemblyReference.cache
+C:\Users\v-fesern\Desktop\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp3.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\v-fesern\Desktop\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp3.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\v-fesern\Desktop\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.0\StrategyPattern.exe
+C:\Users\v-fesern\Desktop\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.0\StrategyPattern.deps.json
+C:\Users\v-fesern\Desktop\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.0\StrategyPattern.runtimeconfig.json
+C:\Users\v-fesern\Desktop\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.0\StrategyPattern.runtimeconfig.dev.json
+C:\Users\v-fesern\Desktop\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.0\StrategyPattern.dll
+C:\Users\v-fesern\Desktop\DesignPatterns\StrategyPattern\bin\Debug\netcoreapp3.0\StrategyPattern.pdb
+C:\Users\v-fesern\Desktop\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp3.0\StrategyPattern.dll
+C:\Users\v-fesern\Desktop\DesignPatterns\StrategyPattern\obj\Debug\netcoreapp3.0\StrategyPattern.pdb
